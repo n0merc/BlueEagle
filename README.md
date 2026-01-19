@@ -43,7 +43,7 @@ Blue Eagle is a powerful Bluetooth spammer tool designed for penetration testing
 ```bash
 # Clone the repository
 git clone https://github.com/n0merc/blueEagle.git
-cd BlueEagle
+cd blueEagle
 
 # Install dependencies
 pip install -r requirements.txt
