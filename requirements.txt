@@ -1,4 +1,4 @@
-pybluez==0.23
+pybluez==0.30
 colorama==0.4.6
 scapy==2.5.0 
 bleak==0.21.0
