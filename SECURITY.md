@@ -4,7 +4,7 @@
 Only the latest version receives security updates.
 
 ## Reporting a Vulnerability
-Email: security@hubax.team
+Email: anujin696969@gmail.com
 
 ## Responsible Disclosure
 1. Do not disclose publicly until fixed
