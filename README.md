@@ -225,3 +225,4 @@ If you find this tool useful:
 **Remember: With great power comes great responsibility. Use this tool ethically and legally.**
 
 🦅 **BLUE EAGLE - Fly High, Test Responsibly** 🦅
+*"The eagle doesn't hunt flies. It hunts prey worth its time." - n0merc*
