@@ -4,11 +4,11 @@ setup(
     name="blue-eagle",
     version="1.0.0",
     author="HUBAX Team",
-    author_email="n0merc@hubax.team",
+    author_email="anujin696969@gmail.com",
     description="Bluetooth Spammer Tool for Security Testing",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/blue-eagle",
+    url="https://github.com/n0merc/blue-eagle",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
